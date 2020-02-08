@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis---Coursera
-Getting and Cleaning Data Course Project Week 1
+Exploratory Data Analysis Course Project Week 1
